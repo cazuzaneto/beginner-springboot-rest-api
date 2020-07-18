@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.com.cazuzaneto.springboot;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

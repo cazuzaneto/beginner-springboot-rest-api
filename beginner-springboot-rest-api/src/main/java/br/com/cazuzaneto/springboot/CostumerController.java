@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.com.cazuzaneto.springboot;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
